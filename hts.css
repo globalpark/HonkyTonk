@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: none;
+	outline: none;
+}
+
+#fondo_head{
+	position: absolute;
+	width: 100%;
+	height: 80px;
+	background-color: #000000;
+	opacity: .4;
+	top: 0;
+	left: 0;
+}
+
+#logo{
+	position: relative;
+	width: 347px;
+	left: 10px;
+	background-color: #ffffff;
+	
+}
+
+#logo img{
+	display: block;
+	float: left;
+}
+
+#contacto{
+	position: relative;
+	top: 25px;
+	right: 15px;
+}
+
+#contacto img{
+	display: block;
+	float: right;
+	padding: 0 7px 0;
+}
